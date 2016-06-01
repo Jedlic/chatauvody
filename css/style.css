@@ -16,7 +16,7 @@ h1 strong{
 }
 h2{
 	text-transform: uppercase;
-	line-height: 20px;
+	line-height: 25px;
 	margin:  0;
 }
 h3{
@@ -439,6 +439,7 @@ ol.type li a.active { font-weight: 700; }
 	color: #FCAC45;
 }
 /* Testimonials Section */
+
 #tf-testimonials{
 	background: url(../img/05.jpg);
 	background-size: cover;
@@ -472,6 +473,11 @@ ol.type li a.active { font-weight: 700; }
 	font-weight: 400;
 	margin: 30px 0;
 	color: #d1d1d1;
+}
+/* Kalendář */
+.kalendarframe{
+	padding:10px;
+	background:white;
 }
 /* Contact Section */
 #tf-contact{
